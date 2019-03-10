@@ -4,5 +4,5 @@ def using_until
     until counter == 10
       puts "You need a levigation force of 10 to succeed. You have a levitation force of #{counter}"
       counter += 1
-    end
+
 end
